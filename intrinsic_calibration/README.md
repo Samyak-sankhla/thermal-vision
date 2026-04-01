@@ -49,6 +49,10 @@ python src/a4_checkerboard.py
 3. Mount on rigid, flat surface (wood board, foam board, or plastic sheet)
 4. Heat the board using a hair dryer or blower right before capturing frames. This creates a temperature gradient between the foil and paper, making corners more visible to the thermal camera.
 
+### Final Checkerboard Photo
+
+![Final checkerboard](data/final_checkerboard.jpeg)
+
 ---
 
 ### Step 2: Setup Camera and Capture Frames
