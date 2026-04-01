@@ -21,5 +21,5 @@ cd Calibration/intrinsic
 pip install -r requirements.txt
 ```
 
-For detailed documentation, see [Calibration/intrinsic/README.md](Calibration/intrinsic/README.md)
+For detailed documentation, see [intrinsic_calibration/README.md](intrinsic_calibration/README.md)
 
