@@ -51,7 +51,7 @@ python src/a4_checkerboard.py
 
 ### Final Checkerboard Photo
 
-![Final checkerboard](data/final_checkerboard.jpeg)
+![Final checkerboard](final_checkerboard.jpeg)
 
 ---
 
