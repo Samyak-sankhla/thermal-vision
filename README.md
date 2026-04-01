@@ -4,7 +4,7 @@ Collection of tools for thermal image processing and analysis.
 
 ## Tools/Projects
 
-### Calibration → Intrinsic
+### Intrinsic Calibration
 
 Calibrate thermal camera intrinsic parameters using checkerboard patterns.
 
