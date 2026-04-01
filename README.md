@@ -2,7 +2,7 @@
 
 Collection of tools for thermal image processing and analysis.
 
-## Modules
+## Tools/Projects
 
 ### Calibration → Intrinsic
 
